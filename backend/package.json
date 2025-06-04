@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/prakharpande04/AR-Assist#readme",
+  "bugs": {
+    "url": "https://github.com/prakharpande04/AR-Assist/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakharpande04/AR-Assist.git"
+  },
+  "license": "ISC",
+  "author": "Prakhar Pande",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
